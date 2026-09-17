@@ -1,0 +1,19 @@
+{
+  "name": "obsidian-clean-clipper",
+  "version": "1.0.0",
+  "description": "Obsidian community plugin to paste and convert rich web text into clean Markdown.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node tests/smoke_test.js"
+  },
+  "keywords": [
+    "obsidian",
+    "obsidian-plugin",
+    "markdown",
+    "clipper",
+    "web clipper",
+    "cleaner"
+  ],
+  "author": "share53880",
+  "license": "MIT"
+}

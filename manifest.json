@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-clean-clipper",
+  "name": "Clean Clipper Pro",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "100% offline clipboard HTML & rich article purifier to clean, noise-free Markdown with frontmatter.",
+  "author": "share53880",
+  "authorUrl": "https://github.com/share53880",
+  "fundingUrl": "https://buymeacoffee.com/share53880",
+  "isDesktopOnly": false
+}
